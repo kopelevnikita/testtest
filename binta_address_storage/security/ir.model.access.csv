@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_binta_address_storage_binta_address_storage,binta_address_storage.binta_address_storage,model_binta_address_storage_binta_address_storage,base.group_user,1,1,1,1
